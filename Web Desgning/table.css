@@ -1,0 +1,13 @@
+table  {
+    border: 1px solid  #8e558e;
+    width: 95vw;
+    height: 90vh;
+
+}
+table tr{
+    margin: 50px;
+    border: 1px solid  #8e558e;
+}
+th{
+    border: 1px solid  #8e558e;
+}

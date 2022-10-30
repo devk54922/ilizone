@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+     font-family: Arial,Helvetica,sans-serif;
+}
+.navlist{
+    width: 100%;
+    background-color: #8e558e;
+    height: 4em;
+    
+}
+.navlist ul{
+    display: flex;
+    list-style: none;
+    padding-top: 1em;
+    font: none;
+    
+    
+    
+}
+
+.navlist ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  
+
+}
+.container{
+    background-color:#a55ba5 ;
+    height: 3.5em;
+}
+.container img{
+    width: 23vw;
+}
+.main img{
+    width: 100%;
+   height: 100vh;
+}
+.container1 subject{
+    height: 200px;
+}
+.foot{
+    background-color:#a55ba5 ;
+    color: white;
+    height: 300px
+}
+
